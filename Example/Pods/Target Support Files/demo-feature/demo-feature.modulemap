@@ -1,0 +1,6 @@
+framework module demo_feature {
+  umbrella header "demo-feature-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "demo-feature",
+  "version": "0.1.0",
+  "summary": "Superman",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Saran-J/demo-feature",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "essper.hanamiji@gmail.com": "saran.j2108@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/essper.hanamiji@gmail.com/demo-feature.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "demo-feature/Classes/**/*",
+  "swift_versions": "4.0",
+  "resource_bundles": {
+    "demo-feature": [
+      "demo-feature/Assets/*.xcassets"
+    ]
+  },
+  "swift_version": "4.0"
+}
