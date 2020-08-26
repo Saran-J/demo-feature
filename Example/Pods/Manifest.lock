@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  demo-feature: 2793de1bbc805d99509f12c41de6514478a17fef
+  demo-feature: e2316e0146c247c4895baff6b9ca416f2b78eb64
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
 PODFILE CHECKSUM: ee74f7790c885178dc42cde41f61a23b084e3c8b
