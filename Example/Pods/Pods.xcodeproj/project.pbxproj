@@ -11,6 +11,7 @@
 		043C56CE02EF2E0DA3DCEBE9D9092E10 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		08C48DDEAA4060BAA363A652A45AB2BD /* Pods-demo-feature_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D88D3829B9210FF714B26BBB24E0C3E /* Pods-demo-feature_Example-dummy.m */; };
 		0F9DEF4224F668DF00BDC210 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F401FD3051B737A24161F0A315DF4EA4 /* Media.xcassets */; };
+		0F9DEF4324F6695C00BDC210 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F401FD3051B737A24161F0A315DF4EA4 /* Media.xcassets */; };
 		11C410135C7E89353B480AC8DE0BFB77 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F538C426803AE34255FC6E35B408CCA /* UIApplication+StrictKeyWindow.m */; };
 		14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = 4568279DE47DC3AB91598E1317503995 /* UIImage+Diff.m */; };
 		14C511527597E5846AB2627F791C7D8E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 716A9972B9D9103B54DB950893FAF104 /* QuartzCore.framework */; };
@@ -609,6 +610,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F9DEF4324F6695C00BDC210 /* Media.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
